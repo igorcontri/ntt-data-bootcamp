@@ -44,7 +44,7 @@ while True:
 
         if deposito > 0:
             saldo += deposito
-            extrato += "".join(f"Depósito   R$ {deposito:.2f} \n")
+            extrato += f"Depósito   R$ {deposito:.2f} \n"
             print(f" R$ {deposito:.2f} Depositados com sucesso!")
         else:
             print("Valor de depósito inválido!")

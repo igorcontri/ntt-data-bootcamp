@@ -1,8 +1,23 @@
-# SISTEMA COM DEPOSITO, SAQUE, EXTRATO
 
-# DEPOISTO -> Não depositar valores negativos, fazer apenas para 1 usuário (não precisa pedir numero de conta, agencia, nome, etc...)
-# SAQUE -> Máximo 3 saques diários, máximo 500,00 por saque, informar o usuário em caso de falta de saldo, todos os saques devem ser armazenados em uma variável e exibidos em uma op de extrato
-# EXTRATO -> Listar todos os depositos e saques realizados na conta, no fim da lista motrar o saldo atual, valores exeibitos no formato R$ 1500.00
+""" CRIANDO UM SISTEMA BANCÁRIO COM PYTHON
+
+REGRAS 
+
+DEPOSITO 
+  -> Não depositar valores negativos
+  -> Todos os depositos devem ser armazenados em uma variável e exibidos em uma operação de extrato
+
+SAQUE 
+  -> Máximo 3 saques diários, 
+  -> Máximo R$ 500,00 por saque
+  -> Informar o usuário em caso de saldo insuficiente (saque > saldo)
+  -> Todos os saques devem ser armazenados em uma variável e exibidos em uma operação de extrato
+
+EXTRATO 
+  -> Listar todos os depositos e saques realizados na conta
+  -> Apresentar saldo atual no fim da listagem
+  -> Os valores devem ser exibidos no formato R$ XXXX.XX (R$ 1500.00)
+"""
 
 menu = """
 

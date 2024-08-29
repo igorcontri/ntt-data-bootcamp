@@ -5,3 +5,4 @@ Este repositório tem o propósito de guardar anotações e códigos importantes
 ### Tecnologias e Conceitos
 
 Python
+...

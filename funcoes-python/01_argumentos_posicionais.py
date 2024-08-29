@@ -3,7 +3,9 @@ def car_register(brand, model, year, lic_plate):
 
 car_register("Fiat", "Palio", 1999, "ACB-2134")
 
-# Metodo tradicional, porem suscetível a erros
+# Metodo simples
+
+# Desvantagem: Suscetível a declaração com a posição errada de argumentos
 # Por exemplo, eu poderia passar ano no campo da marca e a função aceitaria 
 
 # car_register(1999, "Palio", "Fiat", "ACB-2134")

@@ -1,6 +1,6 @@
 # Engenharia de Dados - NTT DATA - Bootcamp
 
-Este repositório tem o propósito de guardar anotações e códigos importantes do bootcamp que realizei na "Dio.me" em parceria com a "NTT DATA"
+Este repositório tem o propósito de guardar anotações e códigos importantes do bootcamp que realizei na [Dio](https://web.dio.me/) em parceria com a [NTT DATA](https://br.nttdata.com/)
 
 ## Desafios do Bootcamp
 
@@ -9,7 +9,18 @@ Este repositório tem o propósito de guardar anotações e códigos importantes
 
 ## Tecnologias e Conceitos
 
-Python
-...
+**Python**
+
+-   Sintaxe Básica
+-   Coleções
+-   Programação Orientada a Objetos (POO)
+
+**Power BI**
+
+-   Fundamentos
+-   Visualização de Dados e Relatórios
+-   Processamento de Dados
+-   Modelagem de Dados
+-   Data Anlytics e Storytelling
 
 ![BootcampLogo](https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png)

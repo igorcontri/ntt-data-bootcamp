@@ -1,3 +1,10 @@
+# Metodos especiais
+
+# __str__ == define como o objeto é representado como uma string
+# __class__ == retorna a classe a qual a instância atual pertence
+# __name__ == retorna o nome da classe como uma string
+# __dict__ == retorna um dicionário (no caso, com todos os atributos das instâncias das classes)
+
 class Animal:
     def __init__(self, nro_patas):
         self.nro_patas = nro_patas

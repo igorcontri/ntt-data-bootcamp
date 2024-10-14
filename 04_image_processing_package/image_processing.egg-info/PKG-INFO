@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: image_processing
+Version: 0.0.1
+Summary: image processing package using skimage
+Home-page: https://github.com/igorcontri/ntt-data-bootcamp/04_image_processing_package
+Author: Igor
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+
+# image_processing
+
+Description.
+The package image_processing is used to:    
+
+    Processing:  
+        - Histogram matching
+        - Structural similarity
+        - Resize image  
+
+    Utils:
+        - Read image
+        - Save image
+        - Plot image
+        - Plot result
+        - Plot histogram
+
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
+
+```bash
+pip install image_processing
+```
+
+## Usage
+
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+
+Igor Contri
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
